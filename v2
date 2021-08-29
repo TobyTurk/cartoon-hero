@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Iron Man</title>
+	<link rel="icon" href="https://icon-library.com/images/iron-man-icon/iron-man-icon-2.jpg"
+	<link rel="stylesheet" type="text/css" href="CSS/Iron Man.css"> 
+</head>
+<body>
+	<!-- Header Element -->
+	<header>
+			<h1>Iron Man</h1>
+			<img src="https://pbs.twimg.com/profile_images/1222654825403424768/-ySQePLc.jpg"
+	</header>
+
+	<!-- Main Element -->
+	<main>
+	<h2> About Iron Man</h2>		
+	<p> Iron Man is ya boi, the ironiest of iron boys</p>
+	<img src="https://www.denofgeek.com/wp-content/uploads/2019/02/mcu-1-iron-man.jpg?fit=1200%2C675">
+	<p> Iron Man and his armor</p>
+
+	<!-- Traits -->
+	<h2> Iron Man's Characteristics</h2>
+	<ol>
+		<li>Armor is not iron</li>		
+		<li>Nano-tech suit </li>
+		<li>Trying to be a hero</li>
+	</ol>
+
+	<!-- Friends -->
+	<h2> Iron Man's friends</h2>
+	<p> Iron man is part of the averngers, his best friend is Captain Rhodes. Click on the links below to read more</p>
+	<ul>
+		<li><a href="https://www.imdb.com/title/tt0800369/"target="_blank">Thor</a></li>	
+		<li><a href="https://www.imdb.com/title/tt0458339/"target="_blank">Captain America</a></li>	
+		<li><a href="https://en.wikipedia.org/wiki/Loki_(TV_series)"target="_blank">Loki</a></li>	
+		<li><a href="https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier">Winter Soldier</a></li>	
+	</ul>
+	</main>
+
+	<!-- Footer Element -->
+	<footer>
+		<p>This site was created through a class <a href="https://htmlcolorcodes.com/" target="_blank" >website</a>. &copy; Toby</p>		
+	</footer>
+
+</body>
+</html>
+
